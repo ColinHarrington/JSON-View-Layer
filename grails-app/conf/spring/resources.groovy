@@ -1,3 +1,4 @@
-// Place your Spring DSL code here
+import com.objectpartners.s2gx.JsonViewResolver
 beans = {
+	jsonViewResolver(JsonViewResolver)
 }
